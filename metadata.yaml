@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '2216'
     url: http://www.gutenberg.org/2009/agents/2216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26233#The-Indifference-of-Juliet
 gutenberg_issued: '2008-08-09'
 gutenberg_type: Text
 identifiers:
